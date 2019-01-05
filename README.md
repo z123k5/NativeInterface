@@ -1,7 +1,7 @@
 # NativeInterface
 这是一个用于Android上的纯cpp开发的辅助库（适用于AIDE和c4droid）
 
->联系开发者<br>
+>联系开发者：<br>
 QQ： [1994918916](http://qm.qq.com/cgi-bin/qm/qr?k=bG35WLlQiCM73a8zPApgkhGnZIUhoe5S)
 ![head](http://qlogo4.store.qq.com/qzone/1994918916/1994918916/30?1456664472 "sour and hot") <br>
 QQ Mail：`1994918916@qq.com` <br>
@@ -9,7 +9,7 @@ QQ Mail：`1994918916@qq.com` <br>
 ## 注意
 该项目采用[GPLv3许可证](http://www.gnu.org/licenses/gpl.html)发布并受其保护。 <br>
 `2019.1.6 （6,January）`
-该库现在处于测试阶段，暂时只对c4droid支持 <br>
+该库现在处于测试阶段，暂时只对c4droid支持。 <br>
 如果你想讨论或者参与开发，请联系作者QQ。
 
 ## 项目结构
