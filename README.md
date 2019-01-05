@@ -1,7 +1,8 @@
 NativeInterface
 =
 这是一个用于Android上的纯cpp开发的辅助库（适用于AIDE和c4droid）
->联系开发者
+>联系开发者<br>
+[点击加开发者QQ](http://qm.qq.com/cgi-bin/qm/qr?k=bG35WLlQiCM73a8zPApgkhGnZIUhoe5S "sour and hot") <br>
 QQ：`1994918916 (sour and hot)` <br>
 QQ Mail：`1994918916@qq.com`
 
@@ -13,5 +14,5 @@ QQ Mail：`1994918916@qq.com`
 
 项目结构
 -
-* Original Native Activity
+* `Original Native Activity` <br>
 	该版本使用Android原生类 `NativeActivity` 来重写android_app_glue。
