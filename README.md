@@ -2,7 +2,7 @@ NativeInterface
 =
 这是一个用于Android上的纯cpp开发的辅助库（适用于AIDE和c4droid）
 >联系开发者
-QQ：`1994918916 (sour and hot)`
+QQ：`1994918916 (sour and hot)` <br>
 QQ Mail：`1994918916@qq.com`
 
 注意
