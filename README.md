@@ -1,6 +1,6 @@
 # NativeInterface
 这是一个Android上用于纯cpp开发的辅助库（适用于AIDE和c4droid）
-* 最新版本 :1.3_b1<br>
+* 最新版本 :1.3_b1: 2019-1-30<br>
 >添加了c4droid的一个范例（Traveler），你可以下载自行编译。<br>
 
 
